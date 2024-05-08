@@ -15,5 +15,5 @@ Built using Java technologies and Spring WebFlux, this microservice employs reac
 - __JSON:__ Data interchange format for communication between the client and the server.
 
 ### Conclusion
-This RoleService microservice embodies modern Java development practices, leveragign reactive programming, clean architecture,
+This RoleService microservice embodies modern Java development practices, leveraging reactive programming, clean architecture,
 and robust testing methodologies to deliver efficient and scalable role management functionality.

@@ -1,6 +1,16 @@
+![Java](https://img.shields.io/badge/Java-17-brightgreen)
+![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-Reactive-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![GitHub forks](https://img.shields.io/github/forks/MiroslavKolosnjaji/AutoPartsEstoreSystem)
+
 # RoleService
-The RoleService microservice is designed to manage roles within an application ecosystem. It provides RESTful API endpoints for creating, updating, retieving, and deleting role data
+
+The RoleService microservice is designed to manage roles within an application ecosystem. It provides RESTful API endpoints for creating, updating, retrieving, and deleting role data
 Built using Java technologies and Spring WebFlux, this microservice employs reactive programming principles for efficient handling of concurrent requests.
+
+## Limitations and Use Case
+This microservice was developed as a practice project to explore reactive programming with Spring WebFlux.  
+It is not intended for production use but serves as a learning tool to demonstrate modern Java development practices and principles.
 
 ## Technologies Used:
 - __Spring Framework:__ Core Framework for building enterprise Java applications.
@@ -14,6 +24,9 @@ Built using Java technologies and Spring WebFlux, this microservice employs reac
 - __H2 Database:__ In-memory relational database for development and testing purposes.
 - __JSON:__ Data interchange format for communication between the client and the server.
 
-### Conclusion
+## Conclusion
 This RoleService microservice embodies modern Java development practices, leveraging reactive programming, clean architecture,
 and robust testing methodologies to deliver efficient and scalable role management functionality.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

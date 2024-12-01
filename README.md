@@ -1,7 +1,7 @@
 ![Java](https://img.shields.io/badge/Java-17-brightgreen)
 ![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-Reactive-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![GitHub forks](https://img.shields.io/github/forks/MiroslavKolosnjaji/AutoPartsEstoreSystem)
+![GitHub forks](https://img.shields.io/github/forks/MiroslavKolosnjaji/RoleService)
 
 # RoleService
 
